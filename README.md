@@ -20,7 +20,7 @@ The application is _almost_ **production ready**.
 Step 1: Clone the repo
 
 ```bash
-
+https://github.com/surya8887/role-based-access-control-master
 ```
 
 Step 2: cd into the cloned repo and run:
@@ -30,6 +30,7 @@ npm install
 ```
 
 Step 3: Put your credentials in the .env file.
+
 
 ```bash
 PORT=3000
